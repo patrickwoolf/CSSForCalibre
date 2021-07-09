@@ -9,3 +9,7 @@
   max-height: 100%;
   display: block;
 }
+body {
+  margin: 36pt;
+  font-size: 10pt;
+}
